@@ -1,0 +1,14 @@
+{
+   "collector_id": 446566691,
+   "items":[
+      {
+         "title":" $500.00 de SUPER",
+         "currency_id": ARS,
+         "description":"$500.00 de SUPER",
+         "quantity": 1.0,
+         "unit_price": 500.00
+      }
+   ],
+   "external_reference":"45ea80da",
+   "notification_url":"https://www.tusitio.com"
+}
