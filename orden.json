@@ -15,7 +15,7 @@
         "program": "serviclub",
         "transaction_id": "20191212-0029-3f0d-0004-ab2100b00196",
         "invoice_number": "00464344",
-        "transaction_date": "2019-12-12T10:40:49.000+00:00",
+        "transaction_date": "2019-12-12T10:40:49",
         "transaction_amount": 1,
         "store_id": "00029",
         "products": [
