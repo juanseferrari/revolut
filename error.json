@@ -1,37 +1,5 @@
 {
-   "collector_id": 446566691,
-   "items":[
-      {
-         "title":" $500.00 de SUPER",
-         "currency_id": ARS,
-         "description":"$500.00 de SUPER",
-         "quantity": 1.0,
-         "unit_price": 500.00
-      }
-   ],
-   "external_reference":"45ea80da",
-   "notification_url":"https://hookb.in/DrbmJ2NmrDC2bMVYjOwm",
-    "loyalty": {
-        "program": "payback",
-        "transaction_id": "20191212-0029-3f0d-0004-ab2100b00196",
-        "invoice_number": "00464344",
-        "transaction_date": "2019-12-12T10:40:49.000+00:00",
-        "transaction_amount": 1,
-        "store_id": "00029",
-        "products": [
-            {
-                "code": "2",
-                "quantity": 11.1132,
-                "unit": "litre",
-                "unit_price": 1
-            }
-        ],
-        "cashier_identification": {
-            "type": "DNI",
-            "number": "00000000"
-        },
-        "period": "0000",
-        "shift": "1",
-        "affinity_plan": "2"
-    }
+"error": 
+{  "type": "in_process",
+  "message": "Carga pendiente" }
 }
