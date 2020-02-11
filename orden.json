@@ -8,5 +8,28 @@
       "unit_price": 1000
     }
   ],
-  "external_reference": "3036/1021/637170272145515142"
+  "external_reference": "3036/1021/637170272145515142",
+  "loyalty": {
+    "program": "serviclub",
+    "transaction_id": "1021",
+    "invoice_number": "1021",
+    "transaction_date": "2020-02-11T14:13:24.473-03:00",
+    "transaction_amount": 1000,
+    "store_id": "03036",
+    "products": [
+      {
+        "code": "1",
+        "quantity": 18.56,
+        "unit_price": 53.89,
+        "unit": "litre"
+      }
+    ],
+    "cashier_identification": {
+      "type": "DNI",
+      "number": "39274949"
+    },
+    "period": "1102",
+    "shift": "2",
+    "affinity_plan": "7"
+  }
 }
