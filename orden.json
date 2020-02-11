@@ -1,37 +1,36 @@
 {
-   "collector_id": 477656453,
-   "items":[
-      {
-         "title":" $500.00 de SUPER",
-         "currency_id": UYU,
-         "description":"$500.00 de SUPER",
-         "quantity": 1.0,
-         "unit_price": 500.00
-      }
-   ],
-   "external_reference":"45ea80da",
-   "notification_url":"https://hookb.in/r18wbaRKnYTQnP1o26BY",
-    "loyalty": {
-        "program": "payback",
-        "transaction_id": "20191212-0029-3f0d-0004-ab2100b00196",
-        "invoice_number": "00464344",
-        "transaction_date": "2019-12-12T10:40:49.000+00:00",
-        "transaction_amount": 1,
-        "store_id": "00029",
-        "products": [
-            {
-                "code": "2",
-                "quantity": 11.1132,
-                "unit": "litre",
-                "unit_price": 1
-            }
-        ],
-        "cashier_identification": {
-            "type": "DNI",
-            "number": "00000000"
-        },
-        "period": "0000",
-        "shift": "1",
-        "affinity_plan": "2"
+  "collector_id": 381414723,
+  "sponsor_id": 361062746,
+  "items": [
+    {
+      "title": "Carga de Super 18,56 litros",
+      "description": "18,56 litros de Super",
+      "quantity": 1,
+      "unit_price": 1000
     }
+  ],
+  "external_reference": "3036/1021/637170272145515142",
+  "loyalty": {
+    "program": "serviclub",
+    "transaction_id": "1021",
+    "invoice_number": "1021",
+    "transaction_date": "2020-02-11T14:13:24.473-03:00",
+    "transaction_amount": 1000,
+    "store_id": "03036",
+    "products": [
+      {
+        "code": "1",
+        "quantity": 18.56,
+        "unit_price": 53.89,
+        "unit": "litre"
+      }
+    ],
+    "cashier_identification": {
+      "type": "DNI",
+      "number": "39274949"
+    },
+    "period": "1102",
+    "shift": "2",
+    "affinity_plan": "7"
+  }
 }
