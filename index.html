@@ -209,7 +209,7 @@
                 ); 
 
         $("#webcam-btn").click(function webcam(){
-            scanner = new Instascan.Scanner({ video: document.getElementById('preview'), backgroundScan: false, mirror: true});
+            scanner = new Instascan.Scanner({ video: document.getElementById('preview'), backgroundScan: false, mirror: false});
             scanner.addListener('scan', function (content) {
                 console.log(content);
                 $("#escaneo").val(content);
