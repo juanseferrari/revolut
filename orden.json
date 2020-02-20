@@ -1,15 +1,15 @@
 {
-    "collector_id": 373180552,
-    "sponsor_id": 417243697,
-    "external_reference": "z.system|despacho|899036",
-    "notification_url": "http://echandi.clientes-z-system.com.ar:2019/pago/899036",
-    "items": [
-        {
-            "title": "SUPER BIO",
-            "currency_id": "ARS",
-            "description": "SUPER BIO",
-            "quantity": 1,
-            "unit_price": 1400.2
-        }
-    ]
+  "collector_id": 373180552,
+  "sponsor_id": 417243697,
+  "external_reference": "z.system|caja|3|00014-00013042",
+  "notification_url": "http://echandi.z-system.com.ar:2019/pago/00014-00013042",
+  "items": [
+    {
+      "title": "DIESEL 1500",
+      "currency_id": "ARS",
+      "description": "DIESEL 1500",
+      "quantity": 0.18,
+      "unit_price": 54.79
+    }
+  ]
 }
