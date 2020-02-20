@@ -1,37 +1,15 @@
 {
-  "collector_id": 446566691,
-  "sponsor_id": 446559784,
-  "items": [
-    {
-      "title": "Carga de INFINIA 10,46 litros",
-      "description": "10,46 litros de INFINIA",
-      "currency_id": ARS,
-      "quantity": 1,
-      "unit_price": 650
-    }
-  ],
-  "external_reference": "31194/1021/637170270287034737",
-  "loyalty": {
-    "program": "serviclub",
-    "transaction_id": "1021",
-    "invoice_number": "1021",
-    "transaction_date": "2020-02-11T14:10:27.990-03:00",
-    "transaction_amount": 650,
-    "store_id": "31194",
-    "products": [
-      {
-        "code": "4",
-        "quantity": 10.46,
-        "unit_price": 62.14,
-        "unit": "litre"
-      }
-    ],
-    "cashier_identification": {
-      "type": "DNI",
-      "number": "39415841"
-    },
-    "period": "1102",
-    "shift": "3",
-    "affinity_plan": "7"
-  }
+    "collector_id": 373180552,
+    "sponsor_id": 417243697,
+    "external_reference": "z.system|despacho|899036",
+    "notification_url": "http://echandi.clientes-z-system.com.ar:2019/pago/899036",
+    "items": [
+        {
+            "title": "SUPER BIO",
+            "currency_id": "ARS",
+            "description": "SUPER BIO",
+            "quantity": 1,
+            "unit_price": 1400.2
+        }
+    ]
 }
