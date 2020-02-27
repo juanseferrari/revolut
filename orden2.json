@@ -6,9 +6,9 @@
 "items":[
 {
 "title":"Diesel 500",
-"currency_id":"ARS",
+"currency_id": ARS,
 "description":"Diesel 500",
-"quantity": 27.99,
+"quantity": 1,
 "unit_price": 53.59
 }
 ]
