@@ -1,0 +1,15 @@
+{
+"collector_id": 454650263,
+"sponsor_id": 405392065,
+"external_reference":"z.system|caja|1|A00018-00213752",
+"notification_url":"http://iotti.clientes-z-system.com.ar:2019/pago/A00018-00213752",
+"items":[
+{
+"title":"Diesel 500",
+"currency_id":"ARS",
+"description":"Diesel 500",
+"quantity": 27.99,
+"unit_price": 53.59
+}
+]
+}
