@@ -1,15 +1,1 @@
-{
-"collector_id": 454650263,
-"sponsor_id": 405392065,
-"external_reference":"z.system|caja|1|A00018-00213752",
-"notification_url":"http://iotti.clientes-z-system.com.ar:2019/pago/A00018-00213752",
-"items":[
-{
-"title":"Diesel 500",
-"currency_id": ARS,
-"description":"Diesel 500",
-"quantity": 1,
-"unit_price": 53.59
-}
-]
-}
+{"collector_id": 397908435,"sponsor_id": 446560529,"items":[{"title":" $500.00 de SUPER","currency_id": ARS,"description":"$500.00 de SUPER","quantity": 1.0,"unit_price": 500.00}],"external_reference":"0000000103456","notification_url":"https://www.metodoinfocr.com/ecommerce/api/mercadopago/notificaciones.php"}
