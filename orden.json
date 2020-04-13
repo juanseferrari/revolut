@@ -1,15 +1,37 @@
 {
-"collector_id": 454650263,
-"sponsor_id": 405392065,
-"external_reference":"z.system|caja|1|A00018-00213752",
-"notification_url":"http://iotti.clientes-z-system.com.ar:2019/pago/A00018-00213752",
-"items":[
-{
-"title":"Diesel 500",
-"currency_id":"ARS",
-"description":"Diesel 500",
-"quantity": 27.99,
-"unit_price": 53.59
-}
-]
+  "collector_id": 446566691,
+  "sponsor_id": 446559784,
+  "items": [
+    {
+      "title": "Carga de INFINIA 10,46 litros",
+      "description": "10,46 litros de INFINIA",
+      "currency_id": ARS,
+      "quantity": 1,
+      "unit_price": 650
+    }
+  ],
+  "external_reference": "123-456-ab-123",
+  "loyalty": {
+    "program": "payback",
+    "transaction_id": "10211012",
+    "invoice_number": "1021",
+    "transaction_date": "2020-02-11T14:10:27.990-03:00",
+    "transaction_amount": 650,
+    "store_id": "31194",
+    "products": [
+      {
+        "code": "1",
+        "quantity": 10.46,
+        "unit_price": 62.14,
+        "unit": "litre"
+      }
+    ],
+    "cashier_identification": {
+      "type": "DNI",
+      "number": "39415841"
+    },
+    "period": "1102",
+    "shift": "3",
+    "affinity_plan": "7"
+  }
 }
