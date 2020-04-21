@@ -1,0 +1,13 @@
+{
+  "collector_id": 213181576,
+  "items": [
+    {
+      "title": "Compra por link",
+      "description": "Remera",
+      "currency_id": ARS,
+      "quantity": 1,
+      "unit_price": 10
+    }
+  ],
+  "external_reference": "1234"
+}
