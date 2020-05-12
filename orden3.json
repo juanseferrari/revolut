@@ -1,0 +1,15 @@
+{
+  "collector_id": 252099335,
+  "sponsor_id": 351513631,
+  "items": [
+    {
+      "id": 4,
+      "title": "Compra por link",
+      "description": "Remera",
+      "currency_id": ARS,
+      "quantity": 1,
+      "unit_price": 10
+    }
+  ],
+  "external_reference": "12345"
+}
