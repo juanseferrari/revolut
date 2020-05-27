@@ -1,16 +1,5 @@
 {
-  "collector_id": 518078720,
-  "sponsor_id": 446559784,
-  "items": [
-    {
-      "title": "Carga de INFINIA 10,46 litros",
-      "description": "10,46 litros de INFINIA",
-      "currency_id": ARS,
-      "quantity": 1,
-      "unit_price": 650
-    }
-  ],
-  "external_reference": "123-456-ab-123",
-  "notification_url": "https://hookb.in/yDeV2JNkknI6YeJeaqRV"
-
+"error": 
+{  "type": "in_process",
+  "message": "Carga pendiente" }
 }
