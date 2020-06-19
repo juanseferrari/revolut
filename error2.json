@@ -1,6 +1,14 @@
 {
-    "error": {
-        "type": "in_process",
-        "menssage": "No hay despacho disponible"
-    }
+    "collector_id": 449654618,
+    "sponsor_id": 440430423,
+    "items": [
+        {
+            "title": "29,92L - Nafta Super 95 Sp",
+            "description": "Nafta Super 95 Sp",
+            "quantity": 1,
+            "unit_price": 1644.1
+        }
+    ],
+    "external_reference": "3202609Surt11049681",
+    "notification_url": "http://179.27.81.115/Ingreso/Notificacion?external_reference=3202609Surt11049681"
 }
