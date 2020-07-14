@@ -1,14 +1,56 @@
 {
-  "collector_id": 420051312,
-  "items": [
-    {
-      "id": 4,
-      "title": "Compra por link",
-      "description": "Remera",
-      "currency_id": "UYU",
-      "quantity": 1,
-      "unit_price": 10
-    }
-  ],
-  "external_reference": "12345"
+    "collector_id": "146643448",
+    "items": [
+        {
+            "title": "ROMERO MARTIN IGNACIO",
+            "description": "SUPER (2,54 Lts.)",
+            "picture_url": "",
+            "quantity": 1,
+            "currency_id": "ARS",
+            "unit_price": 150.02
+        }
+    ],
+    "external_reference": 1409555,
+    "loyalty": {
+        "program": "serviclub",
+        "transaction_id": 1409555,
+        "invoice_number": "19925",
+        "transaction_date": "2020-07-14T12:02:11.000-03:00",
+        "transaction_amount": "150.02",
+        "store_id": "00594",
+        "products": [
+            {
+                "code": "00001",
+                "quantity": "2.5",
+                "unit_price": "59.0",
+                "unit": "litre"
+            }
+        ],
+        "cashier_identification": {
+            "type": "DNI",
+            "number": "00000000"
+        },
+        "period": 6413,
+        "shift": 1,
+        "affinity_plan": "7"
+    },
+    "payment_methods": {
+        "excluded_payment_methods": [],
+        "excluded_payment_types": [
+            {
+                "id": "ticket"
+            },
+            {
+                "id": "atm"
+            }
+        ],
+        "installments": 1,
+        "default_payment_method_id": null,
+        "default_installments": 1
+    },
+    "payer_costs": {
+        "installments": 1
+    },
+    "notification_url": "http://mp.focasoftware.com/pagos/594/1/2",
+    "sponsor_id": 337977631
 }
