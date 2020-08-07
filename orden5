@@ -1,0 +1,15 @@
+{
+    "collector_id": 621252710,
+    "sponsor_id": 622418456,
+    "external_reference": "2020040710220011",
+    "notification_url": "http://www.siasoft.com.ar/mp/api/notifications",
+    "items": [
+        {
+            "title": " $500.00 de SUPER",
+            "currency_id": "ARS",
+            "description": "$500.00 de SUPER",
+            "quantity": 1,
+            "unit_price": 500.00
+        }
+    ]
+}
