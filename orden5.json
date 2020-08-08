@@ -1,15 +1,14 @@
 {
-    "collector_id": 621252710,
-    "sponsor_id": 622418456,
-    "external_reference": "2020040710220011",
-    "notification_url": "http://www.siasoft.com.ar/mp/api/notifications",
+    "collector_id": 427700049,
+    "sponsor_id": 440430423,
     "items": [
         {
-            "title": " $500.00 de SUPER",
-            "currency_id": "ARS",
-            "description": "$500.00 de SUPER",
-            "quantity": 1,
-            "unit_price": 500.00
+            "title": "27,3L - Super 95E 30-S",
+            "description": "Super 95E 30-S",
+            "quantity": 1.0,
+            "unit_price": 1500.0
         }
-    ]
+    ],
+    "external_reference": "3180307Surt2788545",
+    "notification_url": "http://179.27.81.115/Ingreso/Notificacion?external_reference=3180307Surt2788545"
 }
