@@ -1,0 +1,14 @@
+{
+    "collector_id": 144909937,
+    "items": [
+        {
+            "title": "Unknown Products",
+            "currency_id": "ARS",
+            "description": "Unknown",
+            "quantity": 1,
+            "unit_price": 10
+        }
+    ],
+    "external_reference": "ebf2987e-dfdc-4057-8c70-ad4cd21bf21f",
+    "notification_url": "https://lynx.nayax.com/payment/v1/transactions/MercadoPago/notifications/942155443"
+}
