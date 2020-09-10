@@ -6,7 +6,7 @@
       "id": 1,
       "title": "Compra por ID1",
       "description": "ID1",
-      "currency_id": ARS,
+      "currency_id": "ARS",
       "quantity": 1,
       "unit_price": 10
     },
@@ -14,7 +14,7 @@
       "id": 4,
       "title": "Compra por ID4",
       "description": "ID4",
-      "currency_id": ARS,
+      "currency_id": "ARS",
       "quantity": 1,
       "unit_price": 10
     }
