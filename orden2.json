@@ -3,6 +3,14 @@
   "sponsor_id": 351513631,
   "items": [
     {
+      "id": "1",
+      "title": "titulo",
+      "description": "descuento",
+      "currency_id": "ARS",
+      "quantity": 1,
+      "unit_price": 10
+    },
+    {
       "id": "4",
       "title": "titulo",
       "description": "sin descuento",
