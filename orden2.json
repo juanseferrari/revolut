@@ -3,9 +3,9 @@
   "sponsor_id": 351513631,
   "items": [
     {
-      "id": "2",
-      "title": "Super",
-      "description": "ID1",
+      "id": "3",
+      "title": "titulo",
+      "description": "Diesel Vpower",
       "currency_id": "ARS",
       "quantity": 1,
       "unit_price": 10
