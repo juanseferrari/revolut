@@ -1,31 +1,10 @@
 {
-  "collector_id": 446560529,
-  "sponsor_id": 614253217,
-  "items": [
-    {
-      "id": "4",
-      "title": "titulo",
-      "description": "sin descuento",
-      "currency_id": "ARS",
-      "quantity": 1,
-      "unit_price": 10
+    "errors": {
+        "pos": [
+            "The value '' is invalid."
+        ]
     },
-    {
-      "id": "3",
-      "title": "titulo",
-      "description": "descuento",
-      "currency_id": "ARS",
-      "quantity": 1,
-      "unit_price": 10
-    },
-    {
-      "id": "2",
-      "title": "titulo",
-      "description": "descuento",
-      "currency_id": "ARS",
-      "quantity": 1,
-      "unit_price": 10
-    }
-  ],
-  "external_reference": "12345"
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "traceId": "00-a074b6b4e5e1cd4d91e8cd685a56d2b2-2d00fa2e60c5dd42-00"
 }
