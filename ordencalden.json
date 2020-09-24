@@ -22,21 +22,12 @@
            "currency_id": "ARS",
            "description": "$ 2.00 de NAFTA SUPER",
            "category_id": "art",
-           "quantity": 0.0329,
-           "unit_price": 60.780000
-       },
-       {
-           "id": "0",
-           "title": "Venta de CaldenOil.Net",
-           "currency_id": "ARS",
-           "description": "Venta de CaldenOil.Net",
-           "category_id": "art",
-           "quantity": 1.0,
-           "unit_price": 0.0003380000
+           "quantity": 1,
+           "unit_price": 60.78
        }
    ],
    "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
-   "notification_url": "https: //pagos.caldenoil.com/api/ipnMP/601117",
+   "notification_url": "https://pagos.caldenoil.com/api/ipnMP/601117",
    "loyalty": {
        "program": "CTC",
        "transaction_id": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
