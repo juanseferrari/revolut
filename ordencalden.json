@@ -1,55 +1,137 @@
 {
-   "payment_methods": {
-       "excluded_payment_methods": [],
-       "excluded_payment_types": [
-           {
-               "id": "ticket"
-           },
-           {
-               "id": "atm"
-           }
-       ],
-       "installments": 1,
-       "default_payment_method_id": null,
-       "default_installments": 1
-   },
-   "collector_id": 472171977,
-   "sponsor_id": 334254103,
-   "items": [
-       {
-           "id": "2",
-           "title": "$ 2.00 de NAFTA SUPER",
-           "currency_id": "ARS",
-           "description": "$ 2.00 de NAFTA SUPER",
-           "category_id": "art",
-           "quantity": 1,
-           "unit_price": 60.78
-       }
-   ],
-   "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
-   "notification_url": "https://pagos.caldenoil.com/api/ipnMP/601117",
+
+    "payment_methods": {
+
+        "excluded_payment_methods": [],
+
+        "excluded_payment_types": [
+
+            {
+
+                "id": "ticket"
+
+            },
+
+            {
+
+                "id": "atm"
+
+            }
+
+        ],
+
+        "installments": 1,
+
+        "default_payment_method_id": null,
+
+        "default_installments": 1
+
+    },
+
+    "collector_id": 472171977,
+
+    "sponsor_id": 334254103,
+
+    "items": [
+
+        {
+
+            "id": "2",
+
+            "title": "$ 2.00 de NAFTA SUPER",
+
+            "currency_id": "ARS",
+
+            "description": "$ 2.00 de NAFTA SUPER",
+
+            "category_id": "art",
+
+            "quantity": 1.0,
+
+            "unit_price": 60.780
+
+        },
+
+        {
+
+            "id": "3",
+
+            "title": "$ 2.00 de NAFTA V-POWER",
+
+            "currency_id": "ARS",
+
+            "description": "Venta de NAFTA V-POWER",
+
+            "category_id": "art",
+
+            "quantity": 1.0,
+
+            "unit_price": 60.780
+
+        }
+
+    ],
+
+    "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
+
+    "notification_url": "https://pagos.caldenoil.com/api/ipnMP/601117",
+
     "loyalty": {
-       "program": "CTC",
-       "transaction_id": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
-       "invoice_number": "00019859",
-       "transaction_date": "2020-09-24T10:52:24.000+00:00",
-       "transaction_amount": 1.999,
-       "store_id": "01889",
-       "products": [
-           {
-               "code": "2",
-               "quantity": 0.0329,
-               "unit": "litre",
-               "unit_price": 60.780
-           }
-       ],
-       "cashier_identification": {
-           "type": "DNI",
-           "number": "00000000"
-       },
-       "period": "0000",
-       "shift": "1",
-       "affinity_plan": "7"
-   }
+
+        "program": "CTC",
+
+        "transaction_id": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
+
+        "invoice_number": "00019859",
+
+        "transaction_date": "2020-09-24T10:52:24.000+00:00",
+
+        "transaction_amount": 1.9996620000,
+
+        "store_id": "01889",
+
+        "products": [
+
+            {
+
+                "code": "2",
+
+                "quantity": 0.0329,
+
+                "unit": "litre",
+
+                "unit_price": 60.780000
+
+            },
+
+            {
+
+                "code": "3",
+
+                "quantity": 0.0329,
+
+                "unit": "litre",
+
+                "unit_price": 60.780000
+
+            }
+
+        ],
+
+        "cashier_identification": {
+
+            "type": "DNI",
+
+            "number": "00000000"
+
+        },
+
+        "period": "0000",
+
+        "shift": "1",
+
+        "affinity_plan": "7"
+
+    }
 
 }
