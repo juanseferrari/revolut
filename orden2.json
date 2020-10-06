@@ -1,10 +1,14 @@
 {
-    "errors": {
-        "pos": [
-            "The value '' is invalid."
-        ]
-    },
-    "title": "One or more validation errors occurred.",
-    "status": 400,
-    "traceId": "00-a074b6b4e5e1cd4d91e8cd685a56d2b2-2d00fa2e60c5dd42-00"
+   "collector_id": 519253179,
+   "items":[
+      {
+         "title":" $500.00 de SUPER",
+         "currency_id": UYU,
+         "description":"$500.00 de SUPER",
+         "quantity": 1.0,
+         "unit_price": 500.00
+      }
+   ],
+   "external_reference":"45ea80da",
+   "notification_url":"https://www.tusitio.com"
 }
