@@ -5,7 +5,7 @@
     {
       "title": "Carga de INFINIA 10,46 litros",
       "description": "10,46 litros de INFINIA",
-      "currency_id": BRL,
+      "currency_id": "BRL",
       "quantity": 1,
       "unit_price": 650
     }
