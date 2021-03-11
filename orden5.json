@@ -1,14 +1,15 @@
 {
-    "collector_id": 427700049,
-    "sponsor_id": 440430423,
+    "collector_id": 446566691,
+    "sponsor_id": 614253217,
+    "application_id": 8499883828799661,
     "items": [
         {
             "title": "27,3L - Super 95E 30-S",
             "description": "Super 95E 30-S",
             "quantity": 1.0,
-            "unit_price": 1500.0
+            "unit_price": 150.0
         }
     ],
-    "external_reference": "3180307Surt2788545",
-    "notification_url": "http://179.27.81.115/Ingreso/Notificacion?external_reference=3180307Surt2788545"
+    "external_reference": "hola1",
+    "notification_url": "https://hookb.in/QJk32wbopoIkpp2WO3wa"
 }
