@@ -1,6 +1,5 @@
 {
    "collector_id": 446566691,
-   "sponsor_id": 614253217,
    "client_id": 8591259854556967,
    "items":[
       {
@@ -11,6 +10,5 @@
          "unit_price": 500.00
       }
    ],
-   "external_reference":"45ea80da",
-   "notification_url": "https://hookb.in/QJk32wbopoIkpp2WO3wa"
+   "external_reference":"45ea80da"
 }
