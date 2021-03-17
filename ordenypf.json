@@ -1,16 +1,13 @@
 {
     "collector_id": 446566691,
-    "sponsor_id": 614253217,
     "items": [
-        {
-            "id": "2",
-            "title": "$ 100.00 de NAFTA INFINIA",
-            "currency_id": "ARS",
-            "description": "$ 100.00 de NAFTA SUPER",
-            "category_id": "art",
-            "quantity": 1.0,
-            "unit_price": 100
-        }
+      {
+         "title":" $500.00 de SUPER",
+         "currency_id": ARS,
+         "description":"$500.00 de SUPER",
+         "quantity": 1.0,
+         "unit_price": 500.00
+      }
     ],
     "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
     "notification_url": "https://hookb.in/E7gLdxzZKQtDEEaxn6aM",
