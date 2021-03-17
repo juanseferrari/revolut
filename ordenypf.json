@@ -10,6 +10,27 @@
       }
     ],
     "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
-    "notification_url": "https://hookb.in/E7gLdxzZKQtDEEaxn6aM"
+    "notification_url": "https://hookb.in/E7gLdxzZKQtDEEaxn6aM",
+     "loyalty": {
+        "program": "serviclub",
+        "transaction_id": "00029-45ea80da",
+        "invoice_number": "45ea80da",
+        "transaction_date": "2019-12-12T10:40:49.000+00:00",
+        "transaction_amount": 100,
+        "store_id": "00029",
+        "products": [{
+            "code": "0",
+            "quantity": 10,
+            "unit": "piece",
+            "unit_price": 10
+            }],
+        "cashier_identification": {
+            "type": "DNI",
+            "number": "00000000"
+        },
+        "period": "0000",
+        "shift": "1",
+        "affinity_plan": "7"
+    }
   
 }
