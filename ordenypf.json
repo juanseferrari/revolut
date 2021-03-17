@@ -19,7 +19,7 @@
         
         "program": "serviclub",
         "transaction_id": "b1c6e579-7df2-4314-bb16-74c9cc5d4892",
-        "invoice_number": "00019859",
+        "invoice_number": "00019889",
         "transaction_date": "2020-09-24T10:52:24.000+00:00",
         "transaction_amount": 100,
         "store_id": "01889",
@@ -27,14 +27,8 @@
             {
                 "code": "0",
                 "quantity": 10,
-                "unit": "litre",
+                "unit": "piece",
                 "unit_price": 10
-            },
-            {
-               "code": "3",
-                "quantity": 3,
-                "unit": "litre",
-                "unit_price": 20
             }
         ],
         "cashier_identification": {
